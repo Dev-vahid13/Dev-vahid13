@@ -1,15 +1,12 @@
 ### Hi there 👋
 
-### Hi there 👋
-
 - 🔭 I’m currently working on Flutter and Node JS
 - 🌱 I’m currently learning Machine learning
 - 👯 I’m looking to collaborate on Flutter projects
 - 🤔 I’m looking for help with Machine learning
 - 💬 Ask me about Python
-- 📫 How to reach me: ..
-- 😄 Pronouns: ...
-- ⚡ Fun fact: :)
+- 📫 How to reach me: Devvahid13@gmail.com
+
 
 
 ![Dev-vahid13's github stats](https://github-readme-stats.vercel.app/api?username=Dev-vahid13&show_icons=true&theme=dark&count_private=true)
